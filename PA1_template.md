@@ -1,4 +1,4 @@
-# Coursera Knitr assignment - Activity monitoring
+# Coursera assignment - Reproductible research - Activity monitoring
 
 ###Loading and preprocessing the data
 Here we are just loading the file, giving intervals easier to understand format and creating the second dataset without NAs to avoid puttin *na.rm=TRUE* in many places :)
